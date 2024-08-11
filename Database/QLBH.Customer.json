@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "66ac9e31bc3c1130f0455106"
+  },
+  "MaKH": "KH106",
+  "TenKH": "Long",
+  "DiaChi": "HCM",
+  "Phai": "Nam",
+  "SDT": "0706418994",
+  "PBH": []
+},
+{
+  "_id": {
+    "$oid": "66acdd271a55fe538ce6ec25"
+  },
+  "MaKH": "KHc25",
+  "TenKH": "Tai",
+  "DiaChi": "HCM",
+  "Phai": "Nam",
+  "SDT": "0715498521",
+  "PBH": []
+}]

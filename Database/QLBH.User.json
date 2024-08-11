@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "669dd65c97bd7ee5cc4e4332"
+  },
+  "Account": "admin1",
+  "Pass": "123456",
+  "Role": "Quản lý",
+  "DiaChi": "TP.HCM",
+  "HoTen": "Nguyễn Văn A",
+  "NgaySinh": "20/10/2003",
+  "Phai": "true",
+  "SDT": "0909090909"
+},
+{
+  "_id": {
+    "$oid": "66ae5cf46e50a2d0a6a74634"
+  },
+  "Account": "admin2",
+  "Pass": "123456",
+  "Role": "Quản Lý",
+  "DiaChi": "tphcm",
+  "HoTen": "Tèo",
+  "NgaySinh": "15/07/2024",
+  "Phai": "Nam",
+  "SDT": "0901966555",
+  "KhachHang": []
+}]

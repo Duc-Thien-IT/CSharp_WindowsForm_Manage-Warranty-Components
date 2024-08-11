@@ -1,0 +1,212 @@
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\mongocrypt.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DAL.dll.config
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DAL.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DAL.pdb
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.Core.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.SecurityToken.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DnsClient.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DTO.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Bson.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.Core.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\SharpCompress.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Snappier.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Buffers.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Memory.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.AccessControl.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.Principal.Windows.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\ZstdSharp.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DTO.pdb
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DTO.dll.config
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.Core.pdb
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.Core.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.SecurityToken.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DnsClient.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Bson.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.Core.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Snappier.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Buffers.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Memory.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.AccessControl.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.Principal.Windows.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.dll
+D:\Hufi\NAM 4\HKHE\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.pdb
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\mongocrypt.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DAL.dll.config
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DAL.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DAL.pdb
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.Core.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.SecurityToken.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DnsClient.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DTO.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Bson.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.Core.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\SharpCompress.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Snappier.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Buffers.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Memory.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.AccessControl.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.Principal.Windows.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\ZstdSharp.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DTO.pdb
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DTO.dll.config
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.Core.pdb
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.Core.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.SecurityToken.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DnsClient.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Bson.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.Core.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Snappier.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Buffers.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Memory.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.AccessControl.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.Principal.Windows.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.dll
+D:\Hufi\NAM 4\HKHE\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\mongocrypt.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DAL.dll.config
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.Core.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DnsClient.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Bson.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\SharpCompress.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Snappier.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Memory.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\ZstdSharp.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DTO.dll.config
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.Core.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DnsClient.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Bson.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Snappier.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Memory.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Documents\BaiTap\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.pdb
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\mongocrypt.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DAL.dll.config
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DAL.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DAL.pdb
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.Core.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.SecurityToken.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DnsClient.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DTO.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Bson.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.Core.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\SharpCompress.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Snappier.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Buffers.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Memory.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Numerics.Vectors.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.AccessControl.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.Principal.Windows.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\ZstdSharp.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DTO.pdb
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DTO.dll.config
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.Core.pdb
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.Core.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\AWSSDK.SecurityToken.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\DnsClient.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Bson.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\MongoDB.Driver.Core.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\Snappier.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Buffers.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Memory.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Numerics.Vectors.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.AccessControl.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Security.Principal.Windows.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.dll
+E:\HK He 3 2024\DoAN NoSQL\NoSQL\QuanLySuaChuaBaoHanh\DAL\obj\Debug\DAL.pdb

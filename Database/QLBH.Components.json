@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64c8ef291b3b3628e8b3d1e2"
+  },
+  "MaLK": "LK002",
+  "TenLK": "RAM 16GB DDR4",
+  "Hang": "Kingston",
+  "Gia": "1500000"
+},
+{
+  "_id": {
+    "$oid": "64c8ef291b3b3628e8b3d1e3"
+  },
+  "MaLK": "LK003",
+  "TenLK": "SSD 512GB",
+  "Hang": "Samsung",
+  "Gia": "2500000"
+},
+{
+  "_id": {
+    "$oid": "64c8ef291b3b3628e8b3d1e4"
+  },
+  "MaLK": "LK004",
+  "TenLK": "Mainboard ASUS",
+  "Hang": "ASUS",
+  "Gia": "2000000"
+},
+{
+  "_id": {
+    "$oid": "64c8ef291b3b3628e8b3d1e5"
+  },
+  "MaLK": "LK005",
+  "TenLK": "GPU NVIDIA RTX 3080",
+  "Hang": "NVIDIA",
+  "Gia": "15000000"
+},
+{
+  "_id": {
+    "$oid": "66ae7ea57e76a36b0343a221"
+  },
+  "MaLK": null,
+  "TenLK": "a",
+  "Hang": "Hang1",
+  "Gia": "100000"
+}]
